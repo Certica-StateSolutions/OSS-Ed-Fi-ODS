@@ -1,4 +1,4 @@
-﻿begin transaction;
+begin transaction;
 
 /* --------------------------------- */
 /*      Applications and Actions     */
